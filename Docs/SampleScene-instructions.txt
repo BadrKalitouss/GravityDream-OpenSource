@@ -1,0 +1,5 @@
+SampleScene: create a new 2D scene in Unity named 'SampleScene'.
+Add:
+- PlayerBall (SpriteRenderer using Assets/Sprites/player.png, Rigidbody2D, CircleCollider2D) and attach PlayerBall.cs
+- GameController empty object and attach GravityController.cs
+- Optional: create ground tiles with BoxCollider2D
