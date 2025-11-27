@@ -5,7 +5,7 @@ Hello JetBrains Team,
 I'm requesting access to the JetBrains All Products pack for the open-source project "Gravity Dream" hosted publicly on GitHub.
 
 Project: Gravity Dream — Open Source Physics Playground
-Repository: <PLACE_REPO_URL_HERE>
+Repository: https://github.com/BadrKalitouss/GravityDream-OpenSource
 Description:
 - Unity 2D prototype demonstrating gravity flipping, basic physics, collision detection, and movement mechanics.
 - Purpose: educational prototype and starting point for a larger open-source game development effort.
