@@ -34,3 +34,6 @@ MIT
 
 ## Request
 See `REQUEST_JETBRAINS.txt` for the prepared message to JetBrains OSS program.
+
+## Activity
+Last updated: 2025-11-27 — Preparing for JetBrains OSS request.
