@@ -35,9 +35,12 @@ MIT
 ## Development Tools
 
 ### GitHub Copilot
-Need help with GitHub Copilot authorization? 
-- **Setup Guide**: See [COPILOT_SETUP.md](COPILOT_SETUP.md) for complete setup instructions
-- **Quick FAQ**: Check [.github/COPILOT_FAQ.md](.github/COPILOT_FAQ.md) for common questions
+**❓ Getting "Not Authorized" error?** → See **[QUICK_START.md](QUICK_START.md)** for immediate help
+
+Complete documentation:
+- **Quick Fix**: [QUICK_START.md](QUICK_START.md) - Fix authorization in 5 minutes
+- **Setup Guide**: [COPILOT_SETUP.md](COPILOT_SETUP.md) - Detailed setup instructions
+- **FAQ**: [.github/COPILOT_FAQ.md](.github/COPILOT_FAQ.md) - Common questions answered
 
 Topics covered:
 - How to get free Copilot access (students & open-source maintainers)
