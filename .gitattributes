@@ -16,9 +16,6 @@
 
 # Unity binary files
 *.unity3d binary
-*.prefab binary
-*.asset binary
-*.anim binary
 
 # Image formats
 *.jpg binary
