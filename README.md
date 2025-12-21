@@ -32,8 +32,17 @@ Press **Left/Right** to move. Press **Space** to jump. Press **G** to flip gravi
 ## License
 MIT
 
-## Request
+## Development Tools
+
+### GitHub Copilot
+Need help with GitHub Copilot authorization? See **[COPILOT_SETUP.md](COPILOT_SETUP.md)** for:
+- How to get free Copilot access (students & open-source maintainers)
+- Step-by-step setup instructions for VS Code, JetBrains IDEs, and Visual Studio
+- Troubleshooting authorization issues
+- Verification steps
+
+### JetBrains IDEs
 See `REQUEST_JETBRAINS.txt` for the prepared message to JetBrains OSS program.
 
 ## Activity
-Last updated: 2025-11-27 — Preparing for JetBrains OSS request.
+Last updated: 2025-12-21 — Added GitHub Copilot setup documentation.
