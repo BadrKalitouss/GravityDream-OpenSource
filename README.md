@@ -35,11 +35,15 @@ MIT
 ## Development Tools
 
 ### GitHub Copilot
-Need help with GitHub Copilot authorization? See **[COPILOT_SETUP.md](COPILOT_SETUP.md)** for:
+Need help with GitHub Copilot authorization? 
+- **Setup Guide**: See [COPILOT_SETUP.md](COPILOT_SETUP.md) for complete setup instructions
+- **Quick FAQ**: Check [.github/COPILOT_FAQ.md](.github/COPILOT_FAQ.md) for common questions
+
+Topics covered:
 - How to get free Copilot access (students & open-source maintainers)
-- Step-by-step setup instructions for VS Code, JetBrains IDEs, and Visual Studio
-- Troubleshooting authorization issues
-- Verification steps
+- Step-by-step setup for VS Code, JetBrains IDEs (Rider), and Visual Studio
+- Troubleshooting "not authorized" errors
+- Verification and testing steps
 
 ### JetBrains IDEs
 See `REQUEST_JETBRAINS.txt` for the prepared message to JetBrains OSS program.
