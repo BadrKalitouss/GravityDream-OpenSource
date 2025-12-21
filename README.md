@@ -52,4 +52,4 @@ Topics covered:
 See `REQUEST_JETBRAINS.txt` for the prepared message to JetBrains OSS program.
 
 ## Activity
-Last updated: 2025-12-21 — Added GitHub Copilot setup documentation.
+Documentation and project structure actively maintained. See commit history for latest updates.

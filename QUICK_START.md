@@ -26,7 +26,7 @@ Visit: https://github.com/settings/copilot
 ### Everyone else → Subscribe
 1. Go to: https://github.com/settings/copilot
 2. Click "Get access to GitHub Copilot"
-3. Subscribe: $10/month or $100/year
+3. Choose a subscription plan (see [GitHub's pricing](https://github.com/features/copilot#pricing))
 4. ✅ Immediate access
 
 ## Step 3: Install Extension (2 minutes)

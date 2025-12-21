@@ -36,8 +36,8 @@ If you don't qualify for free access, you can subscribe to GitHub Copilot:
 1. Go to [GitHub Copilot Settings](https://github.com/settings/copilot)
 2. Click "Get access to GitHub Copilot"
 3. Choose between:
-   - **Copilot Individual**: ~$10/month or $100/year
-   - **Copilot Business**: For organizations, ~$19/user/month
+   - **Copilot Individual**: For personal use (see [current pricing](https://github.com/features/copilot#pricing))
+   - **Copilot Business**: For organizations (see [business pricing](https://github.com/features/copilot#pricing))
 4. Complete the payment process
 
 ## How to Enable GitHub Copilot

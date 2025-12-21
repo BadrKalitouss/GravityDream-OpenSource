@@ -94,8 +94,10 @@ If nothing appears, check your Copilot status and settings.
 ### Q: What's the difference between Copilot Individual and Copilot Business?
 
 **A:**
-- **Individual** (~$10/month): Personal account, basic features
-- **Business** (~$19/user/month): Organization-level, additional management features, privacy controls
+- **Individual**: Personal account with core Copilot features
+- **Business**: Organization-level with additional management features, privacy controls, and team policies
+
+Check [GitHub's pricing page](https://github.com/features/copilot#pricing) for current pricing and feature details.
 
 For contributing to this project, Individual access is sufficient.
 
