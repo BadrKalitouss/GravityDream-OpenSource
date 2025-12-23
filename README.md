@@ -32,8 +32,24 @@ Press **Left/Right** to move. Press **Space** to jump. Press **G** to flip gravi
 ## License
 MIT
 
-## Request
+## Development Tools
+
+### GitHub Copilot
+**❓ Getting "Not Authorized" error?** → See **[QUICK_START.md](QUICK_START.md)** for immediate help
+
+Complete documentation:
+- **Quick Fix**: [QUICK_START.md](QUICK_START.md) - Fix authorization in 5 minutes
+- **Setup Guide**: [COPILOT_SETUP.md](COPILOT_SETUP.md) - Detailed setup instructions
+- **FAQ**: [.github/COPILOT_FAQ.md](.github/COPILOT_FAQ.md) - Common questions answered
+
+Topics covered:
+- How to get free Copilot access (students & open-source maintainers)
+- Step-by-step setup for VS Code, JetBrains IDEs (Rider), and Visual Studio
+- Troubleshooting "not authorized" errors
+- Verification and testing steps
+
+### JetBrains IDEs
 See `REQUEST_JETBRAINS.txt` for the prepared message to JetBrains OSS program.
 
 ## Activity
-Last updated: 2025-11-27 — Preparing for JetBrains OSS request.
+Documentation and project structure actively maintained. See commit history for latest updates.
